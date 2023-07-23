@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Test Application</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="submit">Submit</string>
+</resources>
